@@ -197,4 +197,4 @@ class UserController {
     }
 }
 
-export default AlunoController;
+export default UserController;
